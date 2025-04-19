@@ -1,6 +1,6 @@
 # React Cart App
 
-[Live Demo](#https://shopping-cart-odin-delta.vercel.app/)
+[Live Demo](https://shopping-cart-odin-delta.vercel.app/)
 
 A React-based shopping cart application built with Vite, Tailwind CSS, React Router, and an external API for product data. This project demonstrates a fully functional cart system with features like adding/removing items, updating quantities, and calculating totals, all managed via React Context.
 
