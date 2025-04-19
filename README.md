@@ -1,12 +1,23 @@
-# React + Vite
+# React Cart App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Live Demo](#)
 
-Currently, two official plugins are available:
+A React-based shopping cart application built with Vite, Tailwind CSS, React Router, and an external API for product data. This project demonstrates a fully functional cart system with features like adding/removing items, updating quantities, and calculating totals, all managed via React Context.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- **Shopping Cart**: Add, remove, and update product quantities in the cart.
+- **React Router**: Client-side routing for seamless navigation.
+- **Tailwind CSS**: Responsive and modern UI styling.
+- **External API**: Fetches product data using the fetch API.
+- **Vite**: Fast development and optimized production builds.
+- **Context API**: Centralized cart state management.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- **React**: JavaScript library for building user interfaces.
+- **Vite**: Next-generation frontend tooling for fast builds.
+- **Tailwind CSS**: Utility-first CSS framework.
+- **React Router**: Declarative routing for React applications.
+- **Fetch API**: For making HTTP requests to an external API.
+- **Vercel**: Hosting platform for deployment.
